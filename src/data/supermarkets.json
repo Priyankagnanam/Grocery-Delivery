@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "Fresh Foods Market",
+    "groceries": [1, 2, 3, 4, 5, 6]
+  },
+  {
+    "id": 2,
+    "name": "Organic Roots",
+    "groceries": [7, 8, 9, 10, 11, 12]
+  },
+  {
+    "id": 3,
+    "name": "Quick Stop Grocers",
+    "groceries": [13, 14, 15, 16, 17, 18]
+  }
+]

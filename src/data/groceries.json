@@ -1,0 +1,20 @@
+[
+  {"id": 1, "name": "Apple", "price": 1.5},
+  {"id": 2, "name": "Banana", "price": 0.5},
+  {"id": 3, "name": "Milk", "price": 3},
+  {"id": 4, "name": "Bread", "price": 2.5},
+  {"id": 5, "name": "Eggs", "price": 4},
+  {"id": 6, "name": "Chicken Breast", "price": 8},
+  {"id": 7, "name": "Organic Avocado", "price": 2},
+  {"id": 8, "name": "Organic Spinach", "price": 4},
+  {"id": 9, "name": "Organic Tofu", "price": 3.5},
+  {"id": 10, "name": "Quinoa", "price": 6},
+  {"id": 11, "name": "Almond Milk", "price": 3.5},
+  {"id": 12, "name": "Organic Berries", "price": 5},
+  {"id": 13, "name": "Cereal", "price": 4},
+  {"id": 14, "name": "Soda", "price": 1.5},
+  {"id": 15, "name": "Chips", "price": 2},
+  {"id": 16, "name": "Frozen Pizza", "price": 7},
+  {"id": 17, "name": "Ice Cream", "price": 5},
+  {"id": 18, "name": "Ramen Noodles", "price": 1}
+]
